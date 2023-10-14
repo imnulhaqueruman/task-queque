@@ -1,2 +1,2 @@
-###Welcome to a Tour of Asynq!
-![ezcv logo]("https://github.com/hibiken/asynq/raw/master/docs/assets/overview.png")
+### Welcome to a Tour of Asynq!
+![Model]("https://github.com/hibiken/asynq/raw/master/docs/assets/overview.png")
